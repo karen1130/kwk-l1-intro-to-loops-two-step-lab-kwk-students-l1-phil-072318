@@ -5,7 +5,6 @@ def first_steps
     puts "Left Foot Back"
     puts "Stop"
       sleep(1)
-      break
   end
 
 # def a_few_more_steps
